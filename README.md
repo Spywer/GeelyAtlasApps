@@ -42,7 +42,7 @@
 ### MusicWidget
 Плавающий виджет для управления музыкой. Приложение отображает виджет на главном экране либо поверх других приложений, позволяя управлять воспроизведением музыки без переключения между приложениями.
 
-**Скачать:** [MusicWidget-1.0.9.apk](https://github.com/Spywer/GeelyAtlasApps/releases/download/MW-1.0.9/MusicWidget-1.0.9.apk)
+**Скачать:** [MusicWidget-1.1.0.apk](https://github.com/Spywer/GeelyAtlasApps/releases/download/MW-1.1.0/MusicWidget-1.1.0.apk)
 
 ---
 
