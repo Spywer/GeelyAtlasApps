@@ -14,7 +14,7 @@
 ### QuickHV
 Приложение предоставляет удобный интерфейс для управления обогревом и вентиляцией климат-контроля автомобиля Geely Atlas, включая подогрев сидений, вентиляцию, обогрев руля и другие функции.
 
-**Скачать:** [QuickHV-1.3.7.apk](https://github.com/Spywer/GeelyAtlasApps/releases/download/QHV-1.3.7/QuickHV-1.3.7.apk)
+**Скачать:** [QuickHV-1.4.4.apk](https://github.com/Spywer/GeelyAtlasApps/releases/download/QHV-1.4.4/QuickHV-1.4.4.apk)
 
 ---
 
