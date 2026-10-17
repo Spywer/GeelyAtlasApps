@@ -7,7 +7,7 @@
 ### LauncherWidgets
 Виджет для размещения ярлыков приложений на главном экране.
 
-**Скачать:** [LauncherWidgets-1.1.0.apk](https://github.com/Spywer/GeelyAtlasApps/releases/download/LW-1.1.0/LauncherWidgets-1.1.0.apk)
+**Скачать:** [LauncherWidgets-1.3.0.apk](https://github.com/Spywer/GeelyAtlasApps/releases/download/LW-1.3.0/LauncherWidgets-1.3.0.apk)
 
 ---
 
