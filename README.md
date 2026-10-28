@@ -62,4 +62,9 @@
 ## Требования
 
 - Android система Geely Atlas
+- GInputBridge ([Скачать последнюю версию](https://github.com/Salat39/GInputBridge/releases))
 - Разрешение на установку из неизвестных источников
+
+## Поддержать проект
+
+([https://pay.cloudtips.ru/p/fb054106](https://pay.cloudtips.ru/p/fb054106))
