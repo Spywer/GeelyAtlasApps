@@ -67,4 +67,5 @@
 
 ## Поддержать проект
 
-([https://pay.cloudtips.ru/p/fb054106](https://pay.cloudtips.ru/p/fb054106))
+Приложения является полностью бесплатными и распространяются как есть, вы можете поддержать разработку по ссылке:
+[https://pay.cloudtips.ru/p/fb054106](https://pay.cloudtips.ru/p/fb054106)
