@@ -46,6 +46,13 @@
 
 ---
 
+### DriveMode
+Приложение и виджет выбора режима движения
+
+**Скачать:** [DriveMode-1.0.4.apk](https://github.com/Spywer/DriveMode/releases/download/1.0.4/DriveMode-1.0.4.apk)
+
+---
+
 ## Установка
 
 1. Скачайте нужное приложение по ссылке выше
