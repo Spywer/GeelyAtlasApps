@@ -49,7 +49,7 @@
 ### DriveMode
 Приложение и виджет выбора режима движения
 
-**Скачать:** [DriveMode-1.0.4.apk](https://github.com/Spywer/DriveMode/releases/download/1.0.4/DriveMode-1.0.4.apk)
+**Скачать:** [DriveMode-1.0.5.apk](https://github.com/Spywer/DriveMode/releases/download/1.0.5/DriveMode-1.0.5.apk)
 
 ---
 
